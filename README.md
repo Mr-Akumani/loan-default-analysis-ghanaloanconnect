@@ -40,10 +40,10 @@ A phased strategy was developed to transform risk management:
 - **Operational Efficiency:** 65% faster loan processing
 
 ## 📁 Project Deliverables
-*   **[Case Study Analysis](docs/case_study.md)** - Comprehensive business analysis and methodology
-*   **[Data Analysis Notebooks](notebooks/)** - Jupyter notebooks with exploratory analysis and modeling
-*   **[Predictive Models](src/)** - Python implementation of logistic regression model
-*   **[Visual Dashboards](reports/figures/)** - Key insights and performance metrics
+*   **[Presentation](Ghanaloanconnects/01_presentation/GHANACONNECTLOANS.pdf)** - Key insights and performance metrics
+*   **[Case Study Analysis](Ghanaloanconnects/02_case_study/CASE-STUDY_LOAN-DEFAULT-ANALYSIS-IN-THE-GHANA-LENDING-SECTOR.pdf)** - Comprehensive business analysis and methodology
+*   **[Data Analysis Notebooks](Ghanaloanconnects/03_notebooks_visuals/Notebook_structure.ipynb)** - Jupyter notebooks with exploratory analysis and modeling
+*   **[Dataset](Ghanaloanconnects/04_dataset/loan_analysis_results.csv)** - Python implementation of logistic regression model
 
 ### Tools & Technologies
 - **Python**: Pandas, Scikit-learn, Matplotlib
@@ -52,10 +52,4 @@ A phased strategy was developed to transform risk management:
 - **Analysis**: EDA, correlation studies, predictive modeling
 
 ### Project Structure
-loan-default-analysis-ghana/
-├── data/                 # Raw and processed datasets
-├── notebooks/            # Jupyter notebooks for analysis
-├── src/                  # Python scripts for modeling
-├── reports/              # Visualizations and dashboards
-├── docs/                 # Case study and documentation
-└── README.md            # Project overview
+
